@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\bin\Debug\ConTemp.exe.config
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\bin\Debug\ConTemp.exe
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\bin\Debug\ConTemp.pdb
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\obj\Debug\ConTemp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\obj\Debug\ConTemp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\obj\Debug\ConTemp.exe
+C:\Users\Admin\Desktop\CAMOMOT\ConTemp\obj\Debug\ConTemp.pdb
